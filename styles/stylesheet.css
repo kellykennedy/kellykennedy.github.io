@@ -1,12 +1,29 @@
-div{
-    border-radius:5px;
-    margin:auto;
-    text-align:center;
-    height:100px;
-    width:100px;
+#header{
+	position:static;
+	font-family:Verdana, sans-serif;
+	text-align:center;
+	margin:auto
+	position:static;
+	z-index:1;
+	background-color:#660066;
+	border-radius:15px;
+	padding:20px;
+	border:2px ridge  #CCFFFF;
+	display:inline-block;
 }
-span{
-    height:400px;
-    width:400px;
+#mypicture{
+	margin:auto;
+	height:300px;
+	width:300px;
+	padding:5px;
+	float:center;
 }
-h3{color:violet;}
+.links{
+	height:100px;
+	width:100px;
+	padding:30px;
+	display:inline;
+	margin:auto;
+	clear:both;
+}
+
