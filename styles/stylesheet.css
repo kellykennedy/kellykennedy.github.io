@@ -21,9 +21,9 @@ h3{
         background-color:#660066;
         border-radius:15px;
         padding:20px;
-        border:2px ridge  #CCFFFF;
+        border:10px ridge  #CCFFFF;
         display:block;
-	color:#000000;
+	color:#ffffff;
 }
 h4{
 	position:static;
@@ -35,16 +35,16 @@ h4{
         background-color:#660066;
         border-radius:15px;
         padding:20px;
-        border:2px ridge  #CCFFFF;
+        border:102px ridge  #CCFFFF;
         display:block;
-	color:#000000
+	color:#ffffff;
 }
 div>img{
 	margin:auto;
 	height:300px;
 	width:300px;
 	padding:5px;
-	float:center;
+	float:bottom;
 	clear:both;
 }
 .links{
@@ -56,7 +56,7 @@ div>img{
 	clear:both;
 }
 a img{
-	margin:auto;
+	left-margin:500px;
         height:100px;
         width:100px;
         padding:30px;
