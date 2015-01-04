@@ -59,9 +59,10 @@ a img{
 	margin-right:auto;
         height:100px;
         width:100px;
-        padding:30px;
+        padding:50px;
         display:inline;
 	float:bottom;
+	text-align:center;
 }
 body{
 	background-color:#000000;
@@ -71,7 +72,7 @@ a>p{
 	color:#ffffff;
 	display:inline;
 	margin:auto;
-	padding:15px;
+	padding:50px;
 	font-size:100px;
 	text-decoration:none;
 	text-align:center;
@@ -85,11 +86,13 @@ a:link{
 	display:inline;
 	padding:15px;
 	font-size:100px;
+	text-align:center;
 }
 a:hover{
 	text-decoration:underline;
 	color:#ccffff;
 	margin:auto;
+	text-align:center;
 	display:inline;
 	padding:15px;
 	font-family:Courier;
@@ -99,6 +102,7 @@ a:visited{
 	font-family:Courier;
 	text-decoration:none;
 	color:#000000;
+	text:align:center;
 	margin:auto;
 	display:inline;
 	padding:15px;
