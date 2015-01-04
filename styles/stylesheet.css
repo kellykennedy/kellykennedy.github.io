@@ -22,7 +22,7 @@
         z-index:1;
         background-color:#660066;
         border-radius:15px;
-        padding:50px 0px 50px 0px;
+        padding:10px;
         border:20px ridge  #CCFFFF;
         display:block;
         color:#ffffff;
@@ -30,6 +30,8 @@
 div{
 	padding-top:50px;
 	padding-bottom:50px;
+	margin-top:20px;
+	margin-bottom:20px;
 }
 div>img{
 	margin-right:20px;
