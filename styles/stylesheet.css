@@ -44,11 +44,11 @@ h2{
 	color:#ffffff;
 }
 div>img{
-	margin-right:0px;
+	margin-right:20px;
 	margin-left:auto;
 	height:300px;
 	width:300px;
-	padding:50px;
+	padding:15px;
 	float:bottom;
 	border-radius:25px;
 	border:5px dotted #ccffff;
