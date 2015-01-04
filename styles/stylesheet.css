@@ -44,14 +44,12 @@ h2{
 	color:#ffffff;
 }
 div>img{
-	margin-right:auto;
+	margin-right:0px;
 	margin-left:auto;
 	height:300px;
 	width:300px;
-	padding:5px;
+	padding:15px;
 	float:bottom;
-	clear:both;
-	float:center;
 	border-radius:25px;
 	border:5px dotted #ccffff;
 	display:inline;
@@ -60,8 +58,7 @@ div>img{
 	margin:auto;
 	text-align:center;
 	display:inline;
-	float:center;
-	clear:both;
+	float:bottom;
 }
 a img{
 	margin-left:auto;
@@ -70,8 +67,7 @@ a img{
         width:100px;
         padding:30px;
         display:inline;
-        clear:both;
-	float:center;
+	float:bottom;
 }
 body{
 	background-color:#000000;
@@ -84,6 +80,8 @@ a>p{
 	padding:15px;
 	font-size:100px;
 	text-decoration:none;
+	text-align:center;
+	float:bottom;
 }
 a:link{
 	text-decoration:none;
