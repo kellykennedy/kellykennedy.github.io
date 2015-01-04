@@ -11,7 +11,7 @@
 	border:2px ridge  #CCFFFF;
 	display:inline-block;
 }
-h3{
+h2{
 	position:static;
         font-family:Verdana, sans-serif;
         text-align:center;
@@ -20,8 +20,8 @@ h3{
         z-index:1;
         background-color:#660066;
         border-radius:15px;
-        padding:20px;
-        border:10px ridge  #CCFFFF;
+        padding:0px 0px 20px 0px;
+        border:20px ridge  #CCFFFF;
         display:block;
 	color:#ffffff;
 }
@@ -34,8 +34,8 @@ h4{
         z-index:1;
         background-color:#660066;
         border-radius:15px;
-        padding:20px;
-        border:102px ridge  #CCFFFF;
+        padding:0px;
+        border:20px ridge  #CCFFFF;
         display:block;
 	color:#ffffff;
 }
@@ -46,6 +46,7 @@ div>img{
 	padding:5px;
 	float:bottom;
 	clear:both;
+	float:center;
 }
 .links{
 	height:100px;
@@ -54,6 +55,7 @@ div>img{
 	display:inline;
 	margin:auto;
 	clear:both;
+	float:center;
 }
 a img{
 	left-margin:500px;
@@ -62,4 +64,5 @@ a img{
         padding:30px;
         display:inline;
         clear:both;
+	float:center;
 }
