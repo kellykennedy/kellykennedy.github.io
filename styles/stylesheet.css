@@ -14,20 +14,26 @@
 h3{
         font-family:Verdana, sans-serif;
         text-align:center;
-        margin:auto
+        margin-right:auto;
+	margin-left:auto;
+	margin-top:7px;
+	margin:bottom:20px;
         float:top;
         z-index:1;
         background-color:#660066;
         border-radius:15px;
         padding:0px;
-        border:20px ridge  #CCFFFF;
+        border:12px ridge  #CCFFFF;
         display:block;
 	color:#ffffff;
 }
 h2{
         font-family:Verdana, sans-serif;
         text-align:center;
-        margin:auto
+        margin-right:auto;
+	margin-left:auto;
+	margin-top:20px;
+	margin-bottom:0px;
         float:top;
         z-index:1;
         background-color:#660066;
@@ -47,11 +53,10 @@ div>img{
 	clear:both;
 	float:center;
 	border-radius:25px;
-	border:5px dotted #29297A;
+	border:5px dotted #FF94B8;
 }
 .links{
-	margin-left:auto;
-	margin-right:auto;
+	margin:auto;
 	text-align:center;
 	display:inline-block;
 	float:center;
@@ -66,4 +71,7 @@ a img{
         display:inline;
         clear:both;
 	float:center;
+}
+body{
+	background-color:#000000;
 }
