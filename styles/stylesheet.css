@@ -11,7 +11,7 @@
 	border:2px ridge  #CCFFFF;
 	display:inline-block;
 }
-h2{
+h3{
 	position:static;
         font-family:Verdana, sans-serif;
         text-align:center;
@@ -40,7 +40,8 @@ h4{
 	color:#ffffff;
 }
 div>img{
-	margin:auto;
+	margin-right:auto;
+	margin-left:auto;
 	height:300px;
 	width:300px;
 	padding:5px;
@@ -48,17 +49,9 @@ div>img{
 	clear:both;
 	float:center;
 }
-.links{
-	height:100px;
-	width:100px;
-	padding:30px;
-	display:inline;
-	margin:auto;
-	clear:both;
-	float:center;
-}
 a img{
-	left-margin:500px;
+	margin-left:auto;
+	margin-right:auto;
         height:100px;
         width:100px;
         padding:30px;
