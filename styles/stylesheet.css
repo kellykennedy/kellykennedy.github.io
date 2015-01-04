@@ -54,11 +54,12 @@ div>img{
 	float:center;
 	border-radius:25px;
 	border:5px dotted #FF94B8;
+	display:inline;
 }
 .links{
 	margin:auto;
 	text-align:center;
-	display:inline-block;
+	display:inline;
 	float:center;
 	clear:both;
 }
@@ -74,4 +75,12 @@ a img{
 }
 body{
 	background-color:#000000;
+}
+#resume{
+	font-family:Courier;
+	color:#ffffff;
+	display:inline;
+	margin:auto;
+	padding:15px;
+	font-size:100px;
 }
