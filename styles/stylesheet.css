@@ -53,7 +53,7 @@ div>img{
 	clear:both;
 	float:center;
 	border-radius:25px;
-	border:5px dotted #FF94B8;
+	border:5px dotted #ccffff;
 	display:inline;
 }
 .links{
@@ -76,11 +76,39 @@ a img{
 body{
 	background-color:#000000;
 }
-#resume{
+a>p{
 	font-family:Courier;
 	color:#ffffff;
 	display:inline;
 	margin:auto;
+	padding:15px;
+	font-size:100px;
+	text-decoration:none;
+}
+a:link{
+	text-decoration:none;
+	font-family:Courier;
+	color:#ffffff;
+	margin:auto;
+	display:inline;
+	padding:15px;
+	font-size:100px;
+}
+a:hover{
+	text-decoration:underline;
+	color:#ccffff;
+	margin:auto;
+	display:inline;
+	padding:15px;
+	font-family:Courier;
+	font-size:100px;
+}
+a:visited{
+	font-family:Courier;
+	text-decoration:none;
+	color:#000000;
+	margin:auto;
+	display:inline;
 	padding:15px;
 	font-size:100px;
 }
