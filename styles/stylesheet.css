@@ -11,6 +11,34 @@
 	border:2px ridge  #CCFFFF;
 	display:inline-block;
 }
+h3{
+	position:static;
+        font-family:Verdana, sans-serif;
+        text-align:center;
+        margin:auto
+        float:top;
+        z-index:1;
+        background-color:#660066;
+        border-radius:15px;
+        padding:20px;
+        border:2px ridge  #CCFFFF;
+        display:block;
+	color:#000000;
+}
+h4{
+	position:static;
+        font-family:Verdana, sans-serif;
+        text-align:center;
+        margin:auto
+        float:top;
+        z-index:1;
+        background-color:#660066;
+        border-radius:15px;
+        padding:20px;
+        border:2px ridge  #CCFFFF;
+        display:block;
+	color:#000000
+}
 #mypicture{
 	margin:auto;
 	height:300px;
@@ -26,4 +54,11 @@
 	margin:auto;
 	clear:both;
 }
-
+a{
+        height:100px;
+        width:100px;
+        padding:30px;
+        display:inline;
+        margin:auto;
+        clear:both;
+}
