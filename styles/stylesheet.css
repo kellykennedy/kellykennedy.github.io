@@ -5,10 +5,10 @@
 	margin:auto
 	position:static;
 	z-index:1;
-	background-color:#660066;
+	background-color:#A0A0A0;
 	border-radius:15px;
 	padding:20px;
-	border:2px ridge  #CCFFFF;
+	border:2px ridge  #FDFD96;
 	display:inline-block;
 }
 .text{
@@ -57,7 +57,7 @@ a img{
 	text-align:center;
 }
 body{
-	background-color:#000000;
+	background-color:#A0A0A0;
 }
 a>p{
 	font-family:Courier;
