@@ -8,7 +8,7 @@
 	background-color:#A0A0A0;
 	border-radius:15px;
 	padding:20px;
-	border:2px ridge  #FDFD96;
+	border:2px ridge  #fdfd96;
 	display:inline-block;
 }
 .text{
@@ -19,12 +19,12 @@
         margin:bottom:40px;
         float:top;
         z-index:1;
-        background-color:#660066;
+        background-color:#a0a0a0;
         border-radius:15px;
         padding:10px;
-        border:20px ridge  #CCFFFF;
+        border:20px ridge  #fdfd96;
         display:block;
-        color:#ffffff;
+        color:#a0a0a0;
 }
 div{
 	padding-top:50px;
@@ -40,7 +40,7 @@ div>img{
 	padding:15px;
 	float:bottom;
 	border-radius:25px;
-	border:5px dotted #ccffff;
+	border:5px dotted #fdfd96;
 	display:inline;
 	vertical-align:middle;
 }
@@ -61,7 +61,7 @@ body{
 }
 a>p{
 	font-family:Courier;
-	color:#ffffff;
+	color:#a0a0a0;
 	display:inline;
 	margin:auto;
 	padding:50px;
@@ -83,7 +83,7 @@ a:link{
 }
 a:hover{
 	text-decoration:underline;
-	color:#ccffff;
+	color:#a0a0a0;
 	margin:auto;
 	text-align:center;
 	display:inline;
