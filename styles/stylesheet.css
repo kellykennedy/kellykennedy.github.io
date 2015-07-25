@@ -19,7 +19,7 @@
         margin:bottom:40px;
         float:top;
         z-index:1;
-        background-color:#ffffff;
+        background-color:#a0a0a0;
         border-radius:15px;
         padding:10px;
         border:20px ridge  #fdfd96;
@@ -61,7 +61,7 @@ body{
 }
 a>p{
 	font-family:Courier;
-	color:#a0a0a0;
+	color:#ffffff;
 	display:inline;
 	margin:auto;
 	padding:50px;
@@ -83,7 +83,7 @@ a:link{
 }
 a:hover{
 	text-decoration:underline;
-	color:#a0a0a0;
+	color:#000000;
 	margin:auto;
 	text-align:center;
 	display:inline;
