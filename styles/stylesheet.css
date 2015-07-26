@@ -86,7 +86,7 @@ a>p{
 	vertical-align:top;
 	text-decoration:none;
 	text-align:center;
-	float:center;
+	float:top;
 	border-radius:25px;
 }
 a:link{
