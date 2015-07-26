@@ -67,7 +67,8 @@ a img{
         padding:10px;
         display:inline;
 	vertical-align:middle;
-	float:bottom;
+	border-radius:25px;
+	float:center;
 	text-align:center;
 }
 body{
