@@ -75,6 +75,9 @@ a img{
 body{
 	background-color:#A0A0A0;
 }
+p{
+	font-family:Verdana, sans-serif;
+}
 a>p{
 	font-family:Verdana, sans-serif;
 	color:#ffffff;
