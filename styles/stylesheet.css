@@ -30,8 +30,9 @@
         text-align:center;
         margin-right:auto;
         margin-left:auto;
-        margin:bottom:40px;
-        float:center;
+        margin-bottom:40px;
+        margin-top:40px;
+        float:bottom;
         z-index:1;
         background-color:#a0a0a0;
         border-radius:15px;
