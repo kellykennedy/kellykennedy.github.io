@@ -27,10 +27,10 @@
         color:#ffffff;
 }
 div{
-	padding-top:50px;
-	padding-bottom:50px;
-	margin-top:40px;
-	margin-bottom:40px;
+	padding-top:10px;
+	padding-bottom:10px;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 div>img{
 	margin-right:20px;
@@ -50,7 +50,7 @@ a img{
         height:100px;
         width:100px;
 	vertical-align:middle;
-        padding:50px;
+        padding:20px;
         display:inline;
 	vertical-align:middle;
 	float:bottom;
