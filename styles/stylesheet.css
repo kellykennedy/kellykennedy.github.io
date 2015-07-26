@@ -56,7 +56,7 @@ div>img{
 	width:250px;
 	padding:0px;
 	float:bottom;
-	border-radius:25px;
+	border-radius:25px 25px 25px 25px;
 	border:5px dotted #fdfd96;
 	display:inline;
 	vertical-align:middle;
