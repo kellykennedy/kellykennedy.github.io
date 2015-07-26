@@ -8,7 +8,7 @@
 	background-color:#A0A0A0;
 	border-radius:15px;
 	padding:20px;
-	border:2px ridge  #fdfd96;
+	border-bottom:2px solid  #fdfd96;
 	display:inline-block;
 }
 .text{
